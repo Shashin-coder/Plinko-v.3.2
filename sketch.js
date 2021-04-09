@@ -61,11 +61,11 @@ function setup() {
 
 
 function draw() {
-  background("black");
+  background("#59ccf2");
   textSize(25)
   text("Score:"+ score,30,40);
  
-  text("300",20,520);
+  text("300",20,520,);
   text("300",100,520);
   text("300",180,520);
   text("300",260,520);
